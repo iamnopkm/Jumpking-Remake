@@ -3,7 +3,9 @@
 
 ## Control
 A: Move left
+
 D: Move Right
+
 Space: Jump
 
 ## Gameplay
