@@ -1,0 +1,21 @@
+
+xnbData: 
+    target: "w"
+    compressed: false
+    hiDef: false
+    readerData: 
+        - 
+            type: "Microsoft.Xna.Framework.Content.Texture2DReader"
+            version: 0
+
+
+    numSharedResources: 0
+
+content:  #!Texture2D
+    format: 0
+
+extractedImages: 
+    - 
+        path: ""
+
+

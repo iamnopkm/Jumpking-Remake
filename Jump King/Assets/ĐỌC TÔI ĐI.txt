@@ -1,0 +1,14 @@
+Đây là note :
+- Làm map thì mỗi cái ảnh sẽ lấy ra từ link : Asset\jump king\ screens
+VÀ khi lấy ra NHỚ ở phần spritemode trong inspector: 
+	chỉnh "pixelperunit" thành 15px để map fit 
+FileData người chơi ("C:\Users\[username]\AppData\LocalLow\DefaultCompany\[dir]")
+- Mỗi object sẽ có layer sorting thứ tự từ trước về sau tương ửng với :
++ foreground
++ midground(default)
++ background
++ groundtile(cho mặt đất để đứng || sprite )
+
+nhớ xếp theo thứ tự tương ứng
+
+Unity version !!!! - > 2022.3.10f1

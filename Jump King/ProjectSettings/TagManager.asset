@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - for
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: groundtile
+    uniqueID: 713272403
+    locked: 0
+  - name: background
+    uniqueID: 159038549
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: midground
+    uniqueID: 1607178369
+    locked: 0
+  - name: forground
+    uniqueID: 2677016117
+    locked: 0
+  - name: player
+    uniqueID: 1190966451
+    locked: 0
