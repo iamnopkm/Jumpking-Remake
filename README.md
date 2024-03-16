@@ -24,4 +24,8 @@ We also build our own saving system which has 3 save slots, which help player ha
 ## New Features
 To make the game more chalenging, we add hostitle bot into the game. This bot has function to block and push player back, so aware of them ^^
 
-![Screenshot 2024-01-17 223159](https://github.com/iamnopkm/Jumpking-Remake/assets/93850462/2764e4c2-f504-4e42-8ea7-4c10dfb01c55)
+![image](https://github.com/iamnopkm/Jumpking-Remake/blob/main/Jump%20King/imgassetforgit/Screenshot%202024-01-17%20223159.png)
+
+## Note
+The game is make in Unity version !!!! - > 2022.3.10f1 
+So becareful if you use our project for your own experiment!!!
