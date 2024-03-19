@@ -28,6 +28,9 @@ To make the game more chalenging, we add hostitle bot into the game. This bot ha
 
 ![image](https://github.com/iamnopkm/Jumpking-Remake/blob/main/Jump%20King/imgassetforgit/Screenshot%202024-01-17%20223159.png)
 
+## Contributors
+The list of contributors can be found at [here](https://github.com/quan525/JumpKingFromPhuc)
+
 ## Note
 The game is make in Unity version !!!! - > 2022.3.10f1 
 So becareful if you use our project for your own experiment!!!
